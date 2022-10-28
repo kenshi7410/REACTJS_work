@@ -1,0 +1,23 @@
+.banner{
+    background-color: rgb(232 236 239);
+    padding: 50px 25px;
+}
+.banner h2{
+    font-weight: lighter;
+    font-size: 50px;
+    margin: 0;
+}
+.banner p{
+    margin: 10px 0;
+    line-height: 25px;
+}
+.banner .btn-banner{
+    color: white;
+    background-color: rgb(0 122 253);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+.banner .btn-banner:hover{
+    cursor: pointer;
+}

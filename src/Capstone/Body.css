@@ -1,0 +1,9 @@
+.body{
+padding: 15px 290px;
+}
+.body .body-row{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 15px 0;
+    gap: 20px;
+}
