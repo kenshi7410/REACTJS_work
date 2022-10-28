@@ -12,6 +12,7 @@ class App extends React.Component {
         <Header />
         <Body />
         <Footer/>
+        <p>dasdasdasdgasmdbaskdkasdkadkasbdkja</p>
       </div>
     );
   }
